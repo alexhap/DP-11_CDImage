@@ -1,16 +1,14 @@
-import javax.swing.*;
-import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
-import java.net.MalformedURLException;
-import java.net.URL;
-import java.util.Map;
-import java.util.TreeMap;
-
 /**
  * Created by alex on 02.07.2015.
  *
  */
+
+import javax.swing.*;
+import java.awt.*;
+import java.net.MalformedURLException;
+import java.net.URL;
+import java.util.Map;
+import java.util.TreeMap;
 
 public class CDImages extends JFrame {
     private ImageComponent imageComponent;
